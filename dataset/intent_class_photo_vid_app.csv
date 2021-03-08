@@ -1,0 +1,127 @@
+domain,utterance,intent
+photo_vid,insert text in the background,add_content
+photo_vid,enter/return to new paragraph,add_content
+photo_vid,add image under the selected text,add_content
+photo_vid,to be incorporated along with the following,add_content
+photo_vid,explain the following within parentheses,add_content
+photo_vid,add comments over the,add_content
+photo_vid,insert example right after,add_content
+photo_vid,continue adding this “text” in every page that has elephant image,add_content
+photo_vid,always follow “this text” wherever “so-n-so appears”,add_content
+photo_vid,create new text box,add_content
+photo_vid,i would like a flower pot on the window sil,add_content
+photo_vid,bring a new text box on the bottom right corner,add_content
+photo_vid,how about we try including elephant too in the animals kingdom page,add_content
+photo_vid,please bring the same elephant image from the previous page in this current page,add_content
+photo_vid,i guess another tree will look better on the bottom left corner,add_content
+photo_vid,increase the spaces between the “certain images”,add_content
+photo_vid,i think few birds in the sky will be great,add_content
+photo_vid,need more stars/clouds,add_content
+photo_vid,the sea has to have boats and waves,add_content
+photo_vid,and also surfers with a setting sun on the horizon,add_content
+photo_vid,may be some more flowers in the on the grass,add_content
+photo_vid,replace the sky please,edit_remove_content
+photo_vid,move the blue on top of white,edit_remove_content
+photo_vid,remove the background.,edit_remove_content
+photo_vid,the 'grass'  should be stacked below the tree please,edit_remove_content
+photo_vid,change the background colour,edit_remove_content
+photo_vid,crop the rat out from the image.,edit_remove_content
+photo_vid,erase the forest environment,edit_remove_content
+photo_vid,cut out the bird in the right,edit_remove_content
+photo_vid,take off the elipse,edit_remove_content
+photo_vid,get rid of the leaves ,edit_remove_content
+photo_vid,wipe the moustache off the man,edit_remove_content
+photo_vid,delete the man in white shirt,edit_remove_content
+photo_vid,blur the shadows,edit_remove_content
+photo_vid,reduce the opacity of the image,edit_remove_content
+photo_vid,make the background transparent please,edit_remove_content
+photo_vid,auto-contrast the image,edit_remove_content
+photo_vid,undo the last change,edit_remove_content
+photo_vid,revert the colour to original,edit_remove_content
+photo_vid,paste the image in the exact same position ,edit_remove_content
+photo_vid,undo paste in place,edit_remove_content
+photo_vid,show transform controls,edit_remove_content
+photo_vid,rotate the image to 45 degrees,edit_remove_content
+photo_vid,flip the image horizontally,edit_remove_content
+photo_vid,increase the resolution to 300 ppi,edit_remove_content
+photo_vid,unlock background layer,layer
+photo_vid,let's create a new layer,layer
+photo_vid,rename 'blue' to 'head',layer
+photo_vid,please hide 'leaves' for now,layer
+photo_vid,can you show everything except the background,layer
+photo_vid,we should merge down 'blue' into 'baseline',layer
+photo_vid,now you flatten the image,layer
+photo_vid,leaves' needs to go,layer
+photo_vid,duplicate 'tree branch',layer
+photo_vid,add a new layer below sky layer,layer
+photo_vid,please group all colours,layer
+photo_vid,can you ungroup 'head',layer
+photo_vid,organise only layers 6 to 15 into group,layer
+photo_vid,now can you flatten the image,layer
+photo_vid,change the blending options to multiply,layer
+photo_vid,choose darken blending option for 'leaves',layer
+photo_vid,fill the background with foreground colour,layer
+photo_vid,lock 'original_picture' layer,layer
+photo_vid,i want to duplicate the image,admin
+photo_vid,can you save the image on my computer, please,admin
+photo_vid,convert the image as pdf,admin
+photo_vid,open little amie files from cloud,admin
+photo_vid,change the image  size to 8.65 inches x 8.75 inches please,admin
+photo_vid,increase the canvas size to spread of 17.3 inches x 8.87 inches,admin
+photo_vid,automate all the open files into pdf presentation,admin
+photo_vid,open file as png,admin
+photo_vid,i want you to share this file with a nearby device,admin
+photo_vid,i need you to email the file. ,admin
+photo_vid,lets quickly export the file as jpeg,admin
+photo_vid,why don't you close all the files?,admin
+photo_vid,create me a new file, will you?,admin
+photo_vid,will you open the custom template 'spread',admin
+photo_vid,print the current image,admin
+photo_vid,print out 20 copies of the picture,admin
+photo_vid,download kyle's "megapack" brushes,admin
+photo_vid,it will be fun to use adobe handwriting as font. pick that font please,admin
+photo_vid, save another copy of this image please,admin
+photo_vid,i want to create an animation. open timeline toolbar,video editing
+photo_vid,choose the create frame animation option please,video editing
+photo_vid,can you add a new frame,video editing
+photo_vid,perform a tween of frames 2 and 3,video editing
+photo_vid,change each frame time to .05 seconds now,video editing
+photo_vid,i need you to add an audio track,video editing
+photo_vid,no, i don't like this. replace the audio track,video editing
+photo_vid,mute the audio playback,video editing
+photo_vid,keep the loop forever setting please,video editing
+photo_vid,delete frames between 10 sec to 20 secs,video editing
+photo_vid,start exporting the video,video editing
+photo_vid,render the video file to my computer,video editing
+photo_vid,now, share video on behance ,video editing
+photo_vid,we have to add extra frames at the beginning,video editing
+photo_vid,cut the video short to 1.30 minutes,video editing
+photo_vid,extend audio file beyond 3.22 minutes,video editing
+photo_vid,split the video at 5 minutes,video editing
+photo_vid,can you play without volume please,video_play
+photo_vid,play it again, will you,video_play
+photo_vid,mute the sound,video_play
+photo_vid,increase the volume one notch please ,video_play
+photo_vid,please pause at 1.44 sec,video_play
+photo_vid,move a bit forward,video_play
+photo_vid,perhaps forward a bit to 10 mins,video_play
+photo_vid,go back to the start i want to watch it again,video_play
+photo_vid,just rewind and play from 2.00,video_play
+photo_vid,stop right there for me.,video_play
+photo_vid,play the video in loop please,video_play
+photo_vid,move 2 frames forward to frame 8,video_play
+photo_vid,do a quick selection of the man in pink.,tools_select
+photo_vid,can you zoom in the monkey,tools_select
+photo_vid,drag the picture to the left,tools_select
+photo_vid,select the apple in the white basket,tools_select
+photo_vid,create a new path please,tools_select
+photo_vid,need you to draw a plain square in the middle of the canvas,tools_select
+photo_vid,can you draw me a straight line under the curtain,tools_select
+photo_vid,pick eraser,tools_select
+photo_vid,create a placeholder in the image please,tools_select
+photo_vid,sample the colour of grass,tools_select
+photo_vid,fill in the selected area with paint bucket thingy,tools_select
+photo_vid,draw an outline around the whale,tools_select
+photo_vid,start colouring the image using oil brush,tools_select
+photo_vid,begin a freehand selection,tools_select
+photo_vid,select the subject,tools_select
