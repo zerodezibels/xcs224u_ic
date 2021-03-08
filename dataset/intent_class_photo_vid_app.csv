@@ -63,7 +63,7 @@ photo_vid,choose darken blending option for 'leaves',layer
 photo_vid,fill the background with foreground colour,layer
 photo_vid,lock 'original_picture' layer,layer
 photo_vid,i want to duplicate the image,admin
-photo_vid,can you save the image on my computer, please,admin
+photo_vid,can you save the image on my computer please,admin
 photo_vid,convert the image as pdf,admin
 photo_vid,open little amie files from cloud,admin
 photo_vid,change the image  size to 8.65 inches x 8.75 inches please,admin
@@ -74,7 +74,7 @@ photo_vid,i want you to share this file with a nearby device,admin
 photo_vid,i need you to email the file. ,admin
 photo_vid,lets quickly export the file as jpeg,admin
 photo_vid,why don't you close all the files?,admin
-photo_vid,create me a new file, will you?,admin
+photo_vid,create me a new file will you?,admin
 photo_vid,will you open the custom template 'spread',admin
 photo_vid,print the current image,admin
 photo_vid,print out 20 copies of the picture,admin
@@ -87,19 +87,19 @@ photo_vid,can you add a new frame,video editing
 photo_vid,perform a tween of frames 2 and 3,video editing
 photo_vid,change each frame time to .05 seconds now,video editing
 photo_vid,i need you to add an audio track,video editing
-photo_vid,no, i don't like this. replace the audio track,video editing
+photo_vid,no i don't like this. replace the audio track,video editing
 photo_vid,mute the audio playback,video editing
 photo_vid,keep the loop forever setting please,video editing
 photo_vid,delete frames between 10 sec to 20 secs,video editing
 photo_vid,start exporting the video,video editing
 photo_vid,render the video file to my computer,video editing
-photo_vid,now, share video on behance ,video editing
+photo_vid,now share video on behance ,video editing
 photo_vid,we have to add extra frames at the beginning,video editing
 photo_vid,cut the video short to 1.30 minutes,video editing
 photo_vid,extend audio file beyond 3.22 minutes,video editing
 photo_vid,split the video at 5 minutes,video editing
 photo_vid,can you play without volume please,video_play
-photo_vid,play it again, will you,video_play
+photo_vid,play it again will you,video_play
 photo_vid,mute the sound,video_play
 photo_vid,increase the volume one notch please ,video_play
 photo_vid,please pause at 1.44 sec,video_play
